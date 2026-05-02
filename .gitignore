@@ -1,0 +1,16 @@
+# Environment variables / API keys
+.env
+**/.env
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
